@@ -14,5 +14,5 @@
 ![My skills](https://skillicons.dev/icons?i=pycharm,powershell)
 
 ## My contacts
-[![email](https://img.shields.io/badge/%20email%20-boikov.maks06@gmail.com-red)](mailto:boikov.maks06@gmail.com)  
+[![email](https://img.shields.io/badge/%20email%20-boikov.maks06@gmail.com-red)](boikov.maks06@gmail.com)  
 [![telegram](https://img.shields.io/badge/%20telegram%20-@Moxxm1-blue)](https://t.me/Moxxm1)
