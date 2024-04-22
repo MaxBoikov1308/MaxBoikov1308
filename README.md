@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**MaxBoikov1308/MaxBoikov1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=MaxBoikov1308" alt="Stats">
 
-Here are some ideas to get you started:
+<p align="center">
+  My name is Max and i'm beginner software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My languages
+![My languages](https://skillicons.dev/icons?i=python,golang)
+
+## My skills
+![My skills](https://skillicons.dev/icons?i=git,github,vscode,blender,unreal)  
+![My skills](https://skillicons.dev/icons?i=pycharm,powershell)
+
+## My contacts
+[![email](https://img.shields.io/badge/%20email%20-boikov.maks06@gmail.com-red)](mailto:boikov.maks06@gmail.com)  
+[![telegram](https://img.shields.io/badge/%20telegram%20-@Moxxm1-blue)](https://t.me/Moxxm1)
